@@ -1,10 +1,10 @@
 ### 💻 [阿宝哥，全栈修仙之路](http://www.semlinker.com/)
 
-Hi，我是阿宝哥。17 年开始在思否写 Angular 修仙之路专栏，已输出 **152** 篇原创文章。曾获得思否年度优秀文章作者及两季 Top Writer，今年开始写 **“重学TS”**（50几篇）、玩转前端、你不知道的和优质前端项目 **源码分析** 系列专题。
+Hi，我是阿宝哥。17 年开始在思否写 Angular 修仙之路专栏，已输出 **152** 篇原创文章。曾获得思否年度优秀文章作者及两季 Top Writer，今年开始写 **“重学TS”**（60几篇）、玩转前端、你不知道的和优质前端项目 **源码分析** 系列专题。观看 [《轻松学 TypeScript》](https://space.bilibili.com/406258607) 系列教程，已有十几期。
 
-平常活跃在各个开发社区，这里分享主要的社区地址：
+平常活跃在各个社区，这里分享主要的社区地址：
 
-- ![juejin-favicon.ico](assets/juejin-favicon.ico) 掘金（**LV6**）：https://juejin.im/user/764915822103079
+- ![juejin-favicon.ico](assets/juejin-favicon.ico) 掘金（**LV7**）：https://juejin.im/user/764915822103079
 
 - ![sf-favicon.ico](assets/sf-favicon.ico) 思否（**13.1K**）：https://segmentfault.com/a/1190000008754631
 
